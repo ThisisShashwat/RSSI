@@ -25,7 +25,7 @@ class PresenceDetector:
         var = arr.var()
         motion = np.mean(np.abs(np.diff(arr)))
 
-        print("yo", var, motion)
+        print(var, motion)
 
         if var < self.absent_var:
             new_state = "absent"
@@ -45,6 +45,3 @@ class PresenceDetector:
             self.state = new_state
 
         return self.state
-
-
-

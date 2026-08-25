@@ -4,5 +4,7 @@ version = "0.1.0"
 requires-python = ">=3.14"
 dependencies = [
     "numpy>=2.5.1",
+    "paho-mqtt>=2.1.0",
+    "pyinstaller>=6.22.2",
     "win32wifi>=0.1.0",
 ]
