@@ -8,7 +8,7 @@ No need to buy motion sensors!!!! yay
 basiacally on ANY HARDWARE
 as long as it supports wifi, u can use it as a motion sensor.. NO CAMERA NEEDED
 
-it works through walls!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+it works through walls!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 
 well, to be techincal, we humans are a water blob; and if we walk through wifi we dirupt the ratio waves, even a little, but noticable...
