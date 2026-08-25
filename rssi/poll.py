@@ -7,7 +7,7 @@ from detector import PresenceDetector
 HZ = 10
 
 DEVICE_ID = "desktop-pc"
-BROKER = "192.168.0.10"
+BROKER = "192.168.0.10" #.
 
 det = PresenceDetector(window=30, motion_delta=0.25, absent_var=0.3)
 
