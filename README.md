@@ -4,6 +4,7 @@ Well... lets say u want a motion sensor in ur home... but u dont have any money 
 
 No need to buy motion sensors!!!! yay
 
+> CHECK RELEASES FOR FILES
 
 basiacally on ANY HARDWARE
 as long as it supports wifi, u can use it as a motion sensor.. NO CAMERA NEEDED
